@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Habeeb Mustapha</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A Dedicated Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/zOvBKUUEERdNm/200.gif">
 
