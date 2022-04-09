@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about: **Javascript, React, MERN**
+- 💬 Ask me about: **Javascript, MERN**
 
 - 📫 How to reach me: **habeebmustapha96@gmail.com**
 
