@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A Dedicated Frontend Developer</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/zOvBKUUEERdNm/200.gif">
 
 - 🌱 I’m currently learning **MERN stack**
