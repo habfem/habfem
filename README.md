@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/zOvBKUUEERdNm/200.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/FAS_-m0OwbcAAAAd/programmer-code.gif">
 
 - 🌱 I’m currently learning **MERN stack**
 
