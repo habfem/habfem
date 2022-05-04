@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **habeebmustapha96@gmail.com**
 
-- [https://habeeb-portofolio.netlify.app/](Portfolio Page) 
+- [Portfolio Page](https://habeeb-portofolio.netlify.app/) 
 
 - ⚡ Fun fact: **I'm known to be fun to work it**
 
