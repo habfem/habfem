@@ -2,9 +2,9 @@
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently working with **MERN stack**
 
-- 💬 Ask me about: ** Nodejs, MERN stack**
+- 💬 Ask me about: **Nodejs, MERN stack**
 
 - 📫 How to reach me: **habeebmustapha96@gmail.com**
 
