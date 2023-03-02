@@ -10,7 +10,7 @@
 
 - Portfolio Page: [Portfolio](https://habeeb-portofolio.netlify.app/) 
 
-- ⚡ Fun fact: **I'm known to be fun to work it**
+- ⚡ Fun fact: **I enjoy learning and I'm known to be fun to work it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
